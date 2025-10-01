@@ -1,4 +1,4 @@
-# E-commerce Product Info Chatbot
+# E-commerce Product Info Chatbot with azure foundary
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.30-orange)
