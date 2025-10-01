@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.30-orange)
-![Azure OpenAI](https://img.shields.io/badge/Azure-OpenAI-purple)
+![Azure AI Foundary](https://img.shields.io/badge/Azure-OpenAI-purple)
 
 ---
 
